@@ -2802,11 +2802,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dalto\\source\\repos\\Project2\\TestProject2\\TestProject2.csproj",
+      "projectUniqueName": "C:\\Users\\dalto\\OneDrive\\Documents\\GitHub\\CSCE-3550-Project2\\TestProject2\\TestProject2.csproj",
       "projectName": "TestProject2",
-      "projectPath": "C:\\Users\\dalto\\source\\repos\\Project2\\TestProject2\\TestProject2.csproj",
+      "projectPath": "C:\\Users\\dalto\\OneDrive\\Documents\\GitHub\\CSCE-3550-Project2\\TestProject2\\TestProject2.csproj",
       "packagesPath": "C:\\Users\\dalto\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dalto\\source\\repos\\Project2\\TestProject2\\obj\\",
+      "outputPath": "C:\\Users\\dalto\\OneDrive\\Documents\\GitHub\\CSCE-3550-Project2\\TestProject2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dalto\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2823,8 +2823,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\dalto\\source\\repos\\Project2\\Project2\\Project2.csproj": {
-              "projectPath": "C:\\Users\\dalto\\source\\repos\\Project2\\Project2\\Project2.csproj"
+            "C:\\Users\\dalto\\OneDrive\\Documents\\GitHub\\CSCE-3550-Project2\\Project2\\Project2.csproj": {
+              "projectPath": "C:\\Users\\dalto\\OneDrive\\Documents\\GitHub\\CSCE-3550-Project2\\Project2\\Project2.csproj"
             }
           }
         }
