@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dalto\\source\\repos\\Project2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2E53149-35B7-49AB-BAF0-06CF348DD553}|Project2\\Project2.csproj|c:\\users\\dalto\\source\\repos\\project2\\project2\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2E53149-35B7-49AB-BAF0-06CF348DD553}|Project2\\Project2.csproj|solutionrelative:project2\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EF99D7D-CB96-4CAC-9C31-40FC911D4AC2}|TestProject2\\TestProject2.csproj|c:\\users\\dalto\\source\\repos\\project2\\testproject2\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EF99D7D-CB96-4CAC-9C31-40FC911D4AC2}|TestProject2\\TestProject2.csproj|solutionrelative:testproject2\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2E53149-35B7-49AB-BAF0-06CF348DD553}|Project2\\Project2.csproj|c:\\users\\dalto\\source\\repos\\project2\\project2\\project2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C2E53149-35B7-49AB-BAF0-06CF348DD553}|Project2\\Project2.csproj|solutionrelative:project2\\project2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "C:\\Users\\dalto\\source\\repos\\Project2\\Project2\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "Project2\\Controllers\\ValuesController.cs",
+              "ToolTip": "C:\\Users\\dalto\\source\\repos\\Project2\\Project2\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "Project2\\Controllers\\ValuesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T19:41:34.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Project2.csproj",
+              "DocumentMoniker": "C:\\Users\\dalto\\source\\repos\\Project2\\Project2\\Project2.csproj",
+              "RelativeDocumentMoniker": "Project2\\Project2.csproj",
+              "ToolTip": "C:\\Users\\dalto\\source\\repos\\Project2\\Project2\\Project2.csproj",
+              "RelativeToolTip": "Project2\\Project2.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-21T06:22:09.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\dalto\\source\\repos\\Project2\\TestProject2\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestProject2\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\dalto\\source\\repos\\Project2\\TestProject2\\UnitTest1.cs",
+              "RelativeToolTip": "TestProject2\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T06:22:41.782Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
